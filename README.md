@@ -1,3 +1,4 @@
 # git-branches-pr
-first change on a new branch
-second change
+First change on a new branch
+Second change
+Another change
